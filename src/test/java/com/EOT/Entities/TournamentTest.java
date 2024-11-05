@@ -24,7 +24,5 @@ class TournamentTest {
         assertEquals(winner, cheater1);
     }
 
-    @Test
-    void
 
 }
